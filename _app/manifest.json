@@ -1,0 +1,76 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "immutable/start-dac63b42.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-f329180d.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/index.svelte",
+      "src/routes/referenser.svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "immutable/pages/__layout.svelte-eb619768.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f329180d.js"
+    ],
+    "css": [
+      "immutable/assets/__layout-c6f40ed4.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "immutable/error.svelte-2b549349.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f329180d.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "immutable/pages/index.svelte-bf9012c7.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f329180d.js"
+    ],
+    "css": [
+      "immutable/assets/index-bd3d48c1.css"
+    ]
+  },
+  "src/routes/referenser.svelte": {
+    "file": "immutable/pages/referenser.svelte-4185f163.js",
+    "src": "src/routes/referenser.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f329180d.js"
+    ],
+    "css": [
+      "immutable/assets/referenser-2c2289ca.css"
+    ]
+  },
+  "_index-f329180d.js": {
+    "file": "immutable/chunks/index-f329180d.js"
+  },
+  "src/routes/__layout.css": {
+    "file": "immutable/assets/__layout-c6f40ed4.css",
+    "src": "src/routes/__layout.css"
+  },
+  "src/routes/index.css": {
+    "file": "immutable/assets/index-bd3d48c1.css",
+    "src": "src/routes/index.css"
+  },
+  "src/routes/referenser.css": {
+    "file": "immutable/assets/referenser-2c2289ca.css",
+    "src": "src/routes/referenser.css"
+  }
+}
